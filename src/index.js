@@ -6,13 +6,14 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 import Counter from './components/counter';
 import NavB from './components/navbar';
-
+import Footer from './components/footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
     <NavB /> 
     <Counter />
+    <Footer />
   </div>
   
 ); 
