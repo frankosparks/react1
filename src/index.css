@@ -79,6 +79,7 @@ code {
   background-image: url(/public/logo512.png);
   background-repeat: no-repeat;
   background-position-x: right;
+  background-position-y: 75%;
 }
 .Rapp{
   color: #61DAFB;
