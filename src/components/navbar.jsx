@@ -5,7 +5,10 @@ function NavB(){
   return(
     <div>   
       <header className="nav">
-      <img src="/logo192.png" alt="No logo" className="w"/> 
+      <div>
+       <img src="/logo192.png" alt="No logo" className="w"/> 
+       <span className="Rapp">ReactFacts</span>
+      </div>
         <nav className="navigation">
           <a href="#home">Home</a>
           <a href="#about">About</a>
