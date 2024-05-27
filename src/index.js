@@ -7,6 +7,9 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Counter from './components/counter';
 import NavB from './components/navbar';
 import Footer from './components/footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,6 +17,7 @@ root.render(
     <NavB /> 
     <Counter />
     <Footer />
+
   </div>
   
 ); 
