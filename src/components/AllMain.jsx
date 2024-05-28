@@ -6,7 +6,7 @@ import Footer from './footer';
 function AllMain() {
   return (
     <div>
-      <NavB />
+      
       <Counter />
       <Footer />
     </div>

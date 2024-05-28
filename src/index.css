@@ -146,7 +146,7 @@ code {
 }
 .profile{
   width: 17rem;
-  height: 13rem;
+  height: 12rem;
   margin-bottom: 1.5rem;
   border-radius: 20px 20px 0 0; 
 }
@@ -154,7 +154,7 @@ code {
   display: flex;
   align-items: center;
   gap: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.4rem;
 }
 .email{
   color: rgb(10, 3, 27);
@@ -180,7 +180,11 @@ code {
   font-size: 14px;
 }
 .m_g1{
-  margin-top: -21px;
+  margin-top: -33px;
+  margin-bottom: -20px;
+}
+.mg_3{
+  margin-top: -20px;
 }
 .bd_b{
   border-radius: 20px 20px 0 0; 

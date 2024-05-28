@@ -6,7 +6,7 @@ function Info(){
     <div className="bd">
       <div className="cont c_1 bd_b">
         <img src="/tech4.jpg" alt="No Profile" className="profile bd_b"/>  
-        <h4>Frankosparks</h4>
+        <h4 className="mg_3">Frankosparks</h4>
         <p className="f_w m_g">Frontend Developer</p>
         <p className="saf">Safaricom ltd</p>
         <div className="btns">
